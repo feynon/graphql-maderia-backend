@@ -1,4 +1,4 @@
-# maderia-backend
+# graphql-maderia-backend
 An experimental GraphQL tooling collection.
 
 **maderia** aims to be a comprehensive tool for anything related on GraphQL tooling.
